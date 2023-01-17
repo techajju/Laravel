@@ -1,1 +1,3 @@
 
+php artisan storage:link  // if media file or images file not showing.
+php artisan optimize  //if route not found. if create new Route run this cmd.
